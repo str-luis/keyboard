@@ -2,3 +2,4 @@
 python 3.10
 pip install keyboard
 pip install -r requirements.txt
+tuve que darle permiso de admin al main
